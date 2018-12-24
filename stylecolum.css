@@ -1,0 +1,11 @@
+.newspaper1 {
+    -webkit-columns: 100px 3; /* Chrome, Safari, Opera */
+    -moz-columns: 100px 3; /* Firefox */
+    columns: 100px 3;
+}
+
+.newspaper2 {
+    -webkit-columns: 50px 4; /* Chrome, Safari, Opera */
+    -moz-columns: 50px 4; /* Firefox */
+    columns: 50px 4;
+}
